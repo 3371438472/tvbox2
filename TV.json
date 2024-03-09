@@ -586,9 +586,23 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
+   {
+      "key": "tang'yi",
+      "name": "测试",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://gitee.com/evil--yang/Tvbox/raw/master/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AE%9E%E9%AA%8C/%E7%B3%96%E6%84%8FTV.txt"
+    },
+     {
       "key": "fan",
-      "name": "导航 https://饭太硬.top",
+      "name": "测试",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -612,7 +626,7 @@
       "url": "Demo"
     },
     {
-      "name": "神秘的哥哥们",
+      "name": "神秘",
       "type": 1,
       "url": "http://api.888484.xyz/神秘哥哥/super.php?v=",
       "ext": {
