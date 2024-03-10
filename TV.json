@@ -6,7 +6,7 @@
       "key": "豆豆",
       "name": "邪阳",
       "type": 3,
-      "api": "csp_DouDou",
+      "api": "",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -590,15 +590,15 @@
       "key": "tang'yi",
       "name": "测试",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "",
       "style": {
         "type": "rect",
         "ratio": 1.597
       },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/evil--yang/Tvbox/raw/master/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AE%9E%E9%AA%8C/%E7%B3%96%E6%84%8FTV.txt"
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://5movie.online/vodsearch/-------------.html?wd=%E9%82%AA"
     },
      {
       "key": "fan",
@@ -860,7 +860,7 @@
     {
       "name": "SAO0",
       "type": 0,
-      "url": "https://gitee.com/evil--yang/Tvbox/raw/master/eval-yang.txt",
+      "url": "https://gitee.com/evil--yang/Tvbox/raw/master/TV%20-%201.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
