@@ -6,7 +6,7 @@
       "key": "豆豆",
       "name": "邪阳",
       "type": 3,
-      "api": "",
+      "api": "csp_DouDou",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -59,7 +59,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.80yy3.com/"
+      "ext": "https://5movie.online/vodsearch/-------------.html?wd=%E9%82%AA/"
     },
     {
       "key": "厂长",
