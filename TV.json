@@ -51,7 +51,7 @@
       "changeable": 1
     },
     {
-      "key": "Xinsj",
+      "key": "",
       "name": "👓视觉┃直连",
       "type": 3,
       "api": "csp_Xinsj",
@@ -59,7 +59,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://5movie.online/vodsearch/-------------.html?wd=%E9%82%AA/"
+      "ext": "https://cdn-m.asujp.com:59888/f/data7/EC39DC2E22B38CC7/7786D2FC724B38DC/play.m3u8?_KS=0b60203331ccc844bc2f5e026cb404a6&_KE=1705771067"
     },
     {
       "key": "厂长",
@@ -587,10 +587,10 @@
       "changeable": 1
     },
    {
-      "key": "tang'yi",
+      "key": "555",
       "name": "测试",
       "type": 3,
-      "api": "",
+      "api": "csp_555",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -598,7 +598,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://5movie.online/vodsearch/-------------.html?wd=%E9%82%AA"
+      "ext": "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/Swiper/6.8.4/swiper-bundle.min.js"
     },
      {
       "key": "fan",
