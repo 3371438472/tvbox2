@@ -1,7 +1,19 @@
 {
   "spider": "https://github.com/3371438472/tvbox2/blob/csshi/guodaxia.jar",
-  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
- 
+    "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  "lives": [
+    {
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "live",
+          "urls": [
+            "https://github.com/3371438472/tvbox/blob/master/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AE%9E%E9%AA%8C/%E7%B3%96%E6%84%8FTV.txt"
+          ]
+        }
+      ]
+    }
+  ],
   "sites": [
     {
       "key": "量子资源",
