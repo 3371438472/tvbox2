@@ -1,7 +1,26 @@
 {
   "spider": "https://github.com/3371438472/tvbox2/blob/csshi/guodaxia.jar",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-  "lives": [
+  "lives": [ 
+    {
+      "name": "SAO0",
+      "type": 0,
+      "url": "https://github.com/3371438472/tvbox2/csshi/live18.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "IPV6",
+      "type": 0,
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+
     {
       "group": "redirect",
       "channels": [
@@ -1153,26 +1172,7 @@
       ]
     }
   ],
-  "lives": [
-    {
-      "name": "SAO0",
-      "type": 0,
-      "url": "https://github.com/3371438472/tvbox2/csshi/live18.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "IPV6",
-      "type": 0,
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
-  ]
+ 
   "ads": [
     "mimg.0c1q0l.cn",
     "www.googletagmanager.com",
