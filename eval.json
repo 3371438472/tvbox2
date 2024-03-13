@@ -1,5 +1,5 @@
 {
-  "spider": "./lib/guodaxia.jar",
+  "spider": "https://github.com/3371438472/tvbox2/blob/csshi/guodaxia%20(1).jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
     {
@@ -8,7 +8,7 @@
         {
           "name": "live",
           "urls": [
-            "https://github.com/3371438472/tvbox2/blob/csshi/%E7%B3%96%E6%84%8FTV.txt"
+            "https://github.com/3371438472/tvbox2/blob/csshi/18+.txt"
           ]
         }
       ]
